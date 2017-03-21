@@ -32,5 +32,5 @@
  - [ ] listcolumn
 
 ### Analysis
-- [ ] staypoint
-- [ ] drivingbehaviour
+- [x] staypoint
+- [x] drivingbehaviour
