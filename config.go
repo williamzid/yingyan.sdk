@@ -16,4 +16,7 @@ const (
 	trackGetLatestPoint = `/api/v3/track/getlatestpoint`
 	trackGetDistance    = `/api/v3/track/getdistance`
 	trackGetTrack       = `/api/v3/track/gettrack`
+
+	analysisStayPoint = `/api/v3/track/staypoint`
+	analysisDrivingBehavior = `/api/v3/track/drivingbehavior`
 )
